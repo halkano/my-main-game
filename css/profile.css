@@ -4,16 +4,17 @@ body
 	margin:0;
 	background-color:#ccc;
 	 }
-	 #menu
+#menu
 	 {
 	 	width: 990px;
 	 	margin: 0px auto;
 	 	text-align: center;
 	 	border-bottom: 1px solid #ccc;
-	 }
+ }
+
 	 #wrapper
 	 {
-	 	width: 1000px;
+	 	width: 1200px;
 	 	background-color: #fff;
 	 	margin: 0px auto;
 	 	min-height: 500px;
