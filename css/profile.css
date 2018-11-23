@@ -3,4 +3,23 @@ body
 	padding:0;
 	margin:0;
 	background-color:#ccc;
-}
+	 }
+	 #menu
+	 {
+	 	width: 990px;
+	 	margin: 0px auto;
+	 	text-align: center;
+	 	border-bottom: 1px solid #ccc;
+	 }
+	 #wrapper
+	 {
+	 	width: 1000px;
+	 	background-color: #fff;
+	 	margin: 0px auto;
+	 	min-height: 500px;
+	 	margin-top: 40px;
+	 	border: 1px solid#999;
+	 	border-bottom: 3px solid#999;
+	 	border-radius: 5px;
+	 	padding-bottom: 20px;
+	 }
