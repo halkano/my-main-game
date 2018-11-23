@@ -11,3 +11,7 @@ body
 	 	margin: 0px auto;
 	 	min-height: 500px;
    }
+   .center
+   {
+   	text-align: center;
+   }
